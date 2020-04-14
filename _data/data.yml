@@ -80,26 +80,48 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+projects:
     title: Group
+    assignments:
+      - title: Tao Liang
+        link: "#hook"
+        tagline: Research assistant (from fall, 2019) 
 
-    toolset:
-      - name: Tao Liang, Research assistant(from fall,2019)  
+      - title: Zhantao Cao
+        link: "#"
+        tagline: Phd student (from spring, 2019, co-advised from UESTC)
 
-      - name: Javascript & jQuery
-        level: 98%
+      - title: Defu Liu
+        link: "#"
+        tagline: Phd student (from fall, 2019, co-advised from UESTC)
 
-      - name: Angular
-        level: 98%
+      - title: Xiaoxue Gao
+        link: "#"
+        tagline: Master student (from fall, 2019)
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: Yifan Zhu
+        link: "#"
+        tagline: Master student (from fall, 2019)
+        
+      - title: Huilian Li
+        link: "#"
+        tagline: Master student (from fall, 2019)
+        
+      - title: Zhihao Jiang
+        link: "#"
+        tagline: Master student (from fall, 2019)
+        
+      - title: Jiayi Zhao
+        link: "#"
+        tagline: Undergraduate student (from fall, 2019)
+        
+      - title: Jianyang Zhang
+        link: "#"
+        tagline: Undergraduate student (from fall, 2019)
+        
+      - title: Xinyu Zhang
+        link: "#"
+        tagline: Undergraduate student (from fall, 2019)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
