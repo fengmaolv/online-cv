@@ -117,6 +117,11 @@ publications:
         authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
         conference: "Knowledge-Based Systems, 2017, 136:15-26."
         
+      - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
+        link: "#"
+        authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
+        conference: "Knowledge-Based Systems, 2017, 116:58-73."        
+        
       - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
         link: "#"
         authors: Fengmao Lv,Guowu Yang, William Zhu, Chuan Liu
@@ -125,14 +130,8 @@ publications:
       - title: "The convergence and termination criterion of quantum inspired evolutionary neural networks"
         link: "#"
         authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
-        conference: "Neurocomputing, 2017, 238:157-167
-        ."
-        
-      - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
-        link: "#"
-        authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
-        conference: "Knowledge-Based Systems, 2017, 116:58-73."
-        
+        conference: "Neurocomputing, 2017, 238:157-167."
+                
       - title: "An eﬀective conversation based botnet detection method"
         link: "#"
         authors: Ruidong Chen, Weina Niu, Xiaosong Zhang, Zhongliu Zhuo, Fengmao Lv.
@@ -146,9 +145,6 @@ publications:
 projects:
     title: Group 
     assignments:
-      - title: Tao Liang, Phd student
-        link: "#hook"
-        tagline:  (from April, 2019) 
 
       - title: Zhantao Cao, Phd student
         link: "#"
@@ -157,6 +153,10 @@ projects:
       - title: Defu Liu, Phd student
         link: "#"
         tagline:  (from September, 2019, co-advised from UESTC)
+
+      - title: Tao Liang, Research assistant
+        link: "#hook"
+        tagline:  (from April, 2019) 
 
       - title: Xiaoxue Gao, Master student
         link: "#"
