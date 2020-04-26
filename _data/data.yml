@@ -54,7 +54,7 @@ career-profile:
       Feel free to contact me if you are interested in my research area.
           
  
-projects:
+publications:
     title: Selected Publications
     intro: |
     papers:
@@ -138,7 +138,7 @@ projects:
         authors: Fuyou Fan, Guowu Yang, Qianqi Le, Fengmao Lv, Chao Zhao
         conference: "Journal on Communications, 2015, 36(6):94-104. (in Chinese)"
 
-publications:
+projects:
     title: Student 
     assignments:
 
