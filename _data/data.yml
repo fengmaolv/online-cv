@@ -43,11 +43,10 @@ education:
       time: 2009 - 2013
 
 experiences:
-    - role: 
-      details: |
-        - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
-        - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
-        - Computer Vision: semantic segmentation, medical imaging analysis
+      - title: "Cross-domain semantic segmentation via domain-invariant interactive relation transfer"
+        link: "#"
+        authors: Fengmao Lv*, Tao Liang, Xiang Chen, Guosheng Lin
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020, accepted. (CCF A)
           
 publications:
     title: Selected Publications
