@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: fengmaolv@126.com 
-    phone: +86 18728468872
     website:  #do not add http://
     linkedin: 
     github: fengmaolv
@@ -26,6 +25,9 @@ sidebar:
 
 
     interests:
+      - item: Artificial Intelligence
+        link:
+
       - item: Machine Learning
         link:
 
@@ -60,138 +62,130 @@ publications:
     title: Selected Publications
     intro: |
     papers:
+      - title: "Can cross entropy loss be robust to label noise?"
+        link: "#"
+        authors: Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An
+        conference: International Joint Conference on Artifical Intellegence (IJCAI), 2020, accepted. (CCFA)
+
       - title: "Cross-domain semantic segmentation via domain-invariant interactive relation transfer"
         link: "#"
-        authors: Tao Liang, Xiang Chen, Guosheng Lin and Fengmao Lv*
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition(CVPR),2020,accepted. (CCFA)
+        authors: Fengmao Lv*, Tao Liang, Xiang Chen, Guosheng Lin
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020, accepted. (CCFA)
 
       - title: "Gradient boosting tree for 1H-MRS Alzheimer diagnosis"
         link: "#"
-        authors: Defu Liu, Guowu Yang, Yuchen Li, Jinzhao Wu and Fengmao Lv*
-        conference: "International Journal of Data Mining and Bioinformatics,2020,23(1): 12-29."
+        authors: Defu Liu, Guowu Yang, Yuchen Li, Jinzhao Wu, Fengmao Lv*
+        conference: International Journal of Data Mining and Bioinformatics, 2020, 23(1): 12-29.
 
-      - title: "Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach"
-        link: "#"
-        authors: Qing Lian, Fengmao Lv, Lixin Duan and Boqing Gong. 
-        conference: "IEEE International Conference on Computer Vision(ICCV),2019: 6758-6767. (CCFA)"
-        
       - title: "Breast tumor classiﬁcation through learning from noisy labeled ultrasound images"
         link: "#"
-        authors: Zhantao Cao, Guowu Yang, Qin Chen, Xiaolong Chen and Fengmao Lv*
-        conference: "Medical Physics,2019,inpress."
-        
-      - title: "TarGAN:Generating target data with class labels for unsupervised domain adaptation"
+        authors: Zhantao Cao, Guowu Yang, Qin Chen, Xiaolong Chen, Fengmao Lv*
+        conference: Medical Physics, 2020, 47(3): 1048-1057.
+
+      - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation: a non-adversarial approach"
         link: "#"
-        authors:  Fengmao Lv, Jun Zhu, Guowu Yang and Lixin Duan
-        conference: "Knowledge-Based Systems,2019,172: 123-129. "
+        authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
+        conference: Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2019: 6758-6767. (CCFA)
+                
+      - title: "TarGAN: Generating target data with class labels for unsupervised domain adaptation"
+        link: "#"
+        authors:  Fengmao Lv, Jun Zhu, Guowu Yang, Lixin Duan
+        conference: "Knowledge-Based Systems, 2019, 172: 123-129."
         
       - title: "Integrating traﬃcs with network device logs for anomaly detection"
         link: "#"
-        authors: Jiazhong Lu, Fengmao Lv*, Zhongliu Zhuo, Xiaosong Zhang, etal
-        conference: "Security and Communication Networks,2019."
+        authors: Jiazhong Lu, Fengmao Lv*, Zhongliu Zhuo, Xiaosong Zhang, Xiaolei Liu, Teng Hu, Wei Deng
+        conference: "Security and Communication Networks, 2019, 5695021: 1-10."
         
-      - title: "Boosting 1 H-MRS Alzheimer Diagnosis with Boosted Trees"
+      - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
         link: "#"
         authors: Fengmao Lv, Yuchen Li and Guowu Yang
-        conference: "IEEE International Conference on Bioinformatics and Biomedicine(BIBM),2018: 913-918. (CCFB) "
+        conference: "IEEE International Conference on Bioinformatics and Biomedicine(BIBM), 2018: 913-918. (CCFB) "
         
       - title: "Improving target discriminability for unsupervised domain adaptation"
         link: "#"
         authors: Fengmao Lv, Hao Chen, Jinzhao Wu,etal
-        conference: "International Conference on Neural Information Processing,2018: 287-298."
+        conference: "Proceedings of the International Conference on Neural Information Processing, 2018: 287-298."
         
       - title: "Impacts of opinion leaders on social contagions"
         link: "#"
-        authors: Quanhui Liu, Fengmao Lv,Qian Zhang,etal
-        conference: "Chaos: An Inter disciplinary Journal of Nonlinear Science,2018,28(5): 053103."
+        authors: Quanhui Liu, Fengmao Lv,Qian Zhang, Ming Tang, Tao Zhou
+        conference: "Chaos: An Inter disciplinary Journal of Nonlinear Science, 2018, 28(5): 053103."
         
       - title: "Domain adaptive semantic segmentation through structure enhancement"
         link: "#"
-        authors: Fengmao Lv,Qing Lian,Guowu Yang,etal
-        conference: "European Conference on Computer Vision Workshop,2018. "
-        
-      - title: "Botnet detection based on fuzzy association rules"
-        link: "#"
-        authors: Jiazhong Lu, Fengmao Lv, Quanhui Liu, etal
-        conference: "International Conference on Pattern Recognition,2018: 578-584."
-        
+        authors: Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan
+        conference: "European Conference on Computer Vision Workshops, 2018. "
+                
       - title: "A new centroid based classiﬁcation model for text categorization"
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang and Fengmao Lv
-        conference: "Knowledge-Based Systems,2017,136: 15-26."
+        conference: "Knowledge-Based Systems, 2017, 136: 15-26."
         
       - title: "A nomaly detection for categorical observations using latent Gaussian process"
         link: "#"
-        authors: Fengmao Lv, Guowu Yang, Wu J, etal
-        conference: "International Conference on Neural Information Processing,2017: 285-296."
+        authors: Fengmao Lv, Guowu Yang, Jinzhao Wu, Chuan Liu, Yuhong Yang
+        conference: "Proceedings of the International Conference on Neural Information Processing, 2017: 285-296."
         
       - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
         link: "#"
-        authors: Fengmao Lv,Guowu Yang,William Zhu,etal.
-        conference: "Pattern Recognition Letters,2017,92: 56-61."
+        authors: Fengmao Lv,Guowu Yang,William Zhu, Chuan Liu
+        conference: "Pattern Recognition Letters, 2017, 92: 56-61."
         
       - title: "The convergence and termination criterion of quantum inspired evolutionary neural networks"
         link: "#"
-        authors: Fengmao Lv,Guowu Yang,Wenjing Yang,etal
-        conference: "Neuro computing,2017,238: 157-167."
+        authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
+        conference: "Neurocomputing, 2017, 238: 157-167."
         
       - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
         link: "#"
-        authors: Chuan Liu,Wenyong Wang,Meng Wang,Fengmao Lv and Martin Konan
+        authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
         conference: "Knowledge-Based Systems, 2017, 116: 58-73."
         
       - title: "An eﬀective conversation based botnet detection method"
         link: "#"
-        authors: Ruidong Chen, Weina Niu, Xiaosong Zhang, Zhongliu Zhuo and Fengmao Lv.
-        conference: "Mathematical Problemsin Engineering,2017."
+        authors: Ruidong Chen, Weina Niu, Xiaosong Zhang, Zhongliu Zhuo, Fengmao Lv.
+        conference: "Mathematical Problemsin Engineering, 2017."
         
       - title: "An optimized coverage algorithm of wireless video sensor network based on quantum genetic algorithm"
         link: "#"
         authors: Fuyou Fan, Guowu Yang, Qianqi Le, Fengmao Lv, Chao Zhao
-        conference: "Journalon Communications, 2015."
+        conference: "Journalon Communications, 2015, (In Chinese)."
 
 projects:
     title: Group
     assignments:
       - title: Tao Liang
         link: "#hook"
-        tagline: Research assistant (from fall, 2019) 
+        tagline: Research assistant (from April, 2019) 
 
       - title: Zhantao Cao
         link: "#"
-        tagline: Phd student (from spring, 2019, co-advised from UESTC)
+        tagline: Phd student (from May, 2019, co-advised from UESTC)
 
       - title: Defu Liu
         link: "#"
-        tagline: Phd student (from fall, 2019, co-advised from UESTC)
+        tagline: Phd student (from September, 2019, co-advised from UESTC)
 
       - title: Xiaoxue Gao
         link: "#"
-        tagline: Master student (from fall, 2019)
-
-      - title: Yifan Zhu
-        link: "#"
-        tagline: Master student (from fall, 2019)
-        
-      - title: Huilian Li
-        link: "#"
-        tagline: Master student (from fall, 2019)
-        
+        tagline: Master student (from September, 2019)
+                
       - title: Zhihao Jiang
         link: "#"
-        tagline: Master student (from fall, 2019)
-        
-      - title: Jiayi Zhao
-        link: "#"
-        tagline: Undergraduate student (from fall, 2019)
+        tagline: Master student (from September, 2019)
         
       - title: Jianyang Zhang
         link: "#"
-        tagline: Undergraduate student (from fall, 2019)
-        
+        tagline: Undergraduate student (from July, 2019)
+
+      - title: Jiayi Zhao
+        link: "#"
+        tagline: Undergraduate student (from September, 2019)
+                
       - title: Xinyu Zhang
         link: "#"
-        tagline: Undergraduate student (from fall, 2019)
+        tagline: Undergraduate student (from November, 2019)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
