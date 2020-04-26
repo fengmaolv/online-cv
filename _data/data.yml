@@ -40,16 +40,6 @@ sidebar:
       - item: Computer Vision
 
 
-me:
-I am currently an assistant professor in Center of Statistical Research & School of Statistics, 
-Southwestern University of Finance and Economics, China. My research interests are in machine learning,
-deep learning, transfer learning and their applications in computer vision, e.g., semantic segmentation, 
-medical imaging analysis, etc. 
-
-I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised).
-Please email me with your CV for enquiries if you are interested in my research area.
-
-
 education:
     - degree: Ph.D in Computer Science
       university: University of Electronic Science and Technology of China
@@ -187,6 +177,15 @@ projects:
       - title: Xinyu Zhang, Undergraduate student
         link: "#"
         tagline:  (from November, 2019)
+
+projects:
+    title: about me 
+    assignments:
+    I am currently an assistant professor in Center of Statistical Research & School of Statistics, 
+Southwestern University of Finance and Economics, China. My research interests are in machine learning,
+deep learning, transfer learning and their applications in computer vision, e.g., semantic segmentation, 
+medical imaging analysis, etc. I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised).
+Please email me with your CV for enquiries if you are interested in my research area.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
