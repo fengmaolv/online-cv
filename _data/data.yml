@@ -80,58 +80,58 @@ publications:
       - title: "Breast tumor classiﬁcation through learning from noisy labeled ultrasound images"
         link: "#"
         authors: Zhantao Cao, Guowu Yang, Qin Chen, Xiaolong Chen, Fengmao Lv*
-        conference: Medical Physics, 2020, 47(3): 1048-1057.
+        conference: Medical Physics, 2020, 47(3):1048-1057.
 
       - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation: a non-adversarial approach"
         link: "#"
         authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
-        conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019: 6758-6767. (CCF A)
+        conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019:6758-6767. (CCF A)
                 
       - title: "TarGAN: generating target data with class labels for unsupervised domain adaptation"
         link: "#"
         authors:  Fengmao Lv, Jun Zhu, Guowu Yang, Lixin Duan
-        conference: "Knowledge-Based Systems, 2019, 172: 123-129."
+        conference: "Knowledge-Based Systems, 2019, 172:123-129."
         
       - title: "Integrating traﬃcs with network device logs for anomaly detection"
         link: "#"
         authors: Jiazhong Lu, Fengmao Lv*, Zhongliu Zhuo, Xiaosong Zhang, Xiaolei Liu, Teng Hu, Wei Deng
-        conference: "Security and Communication Networks, 2019, 5695021: 1-10."
+        conference: "Security and Communication Networks, 2019, 5695021:1-10."
         
       - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
         link: "#"
         authors: Fengmao Lv, Yuchen Li and Guowu Yang
-        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018: 913-918. (CCF B) "
+        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018:913-918. (CCF B) "
                 
       - title: "Impacts of opinion leaders on social contagions"
         link: "#"
         authors: Quanhui Liu, Fengmao Lv,Qian Zhang, Ming Tang, Tao Zhou
-        conference: "Chaos: An Interdisciplinary Journal of Nonlinear Science, 2018, 28(5): 053103."
+        conference: "Chaos: An Interdisciplinary Journal of Nonlinear Science, 2018, 28(5):053103."
         
       - title: "Domain adaptive semantic segmentation through structure enhancement"
         link: "#"
         authors: Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan
-        conference: "Proceedings of the European Conference on Computer Vision Workshops, 2018(2): 172-179. "
+        conference: "Proceedings of the European Conference on Computer Vision Workshops, 2018(2):172-179. "
                 
       - title: "A new centroid based classiﬁcation model for text categorization"
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
-        conference: "Knowledge-Based Systems, 2017, 136: 15-26."
+        conference: "Knowledge-Based Systems, 2017, 136:15-26."
         
       - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
         link: "#"
         authors: Fengmao Lv,Guowu Yang,William Zhu, Chuan Liu
-        conference: "Pattern Recognition Letters, 2017, 92: 56-61."
+        conference: "Pattern Recognition Letters, 2017, 92:56-61."
         
       - title: "The convergence and termination criterion of quantum inspired evolutionary neural networks"
         link: "#"
         authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
-        conference: "Neurocomputing, 2017, 238: 157-167
+        conference: "Neurocomputing, 2017, 238:157-167
         ."
         
       - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
-        conference: "Knowledge-Based Systems, 2017, 116: 58-73."
+        conference: "Knowledge-Based Systems, 2017, 116:58-73."
         
       - title: "An eﬀective conversation based botnet detection method"
         link: "#"
@@ -141,7 +141,7 @@ publications:
       - title: "An optimized coverage algorithm of wireless video sensor network based on quantum genetic algorithm"
         link: "#"
         authors: Fuyou Fan, Guowu Yang, Qianqi Le, Fengmao Lv, Chao Zhao
-        conference: "Journal on Communications, 2015, 36(6): 94-104. (in Chinese)"
+        conference: "Journal on Communications, 2015, 36(6):94-104. (in Chinese)"
 
 projects:
     title: Group 
