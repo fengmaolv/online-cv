@@ -43,10 +43,9 @@ education:
       time: 2009 - 2013
 
 experiences:
-    title: Research 
     - role:  
-      company: Startup Hubs, San Francisco
       details: |
+      My research topics include
           - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
           - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
           - Computer Vision: semantic segmentation, medical imaging analysis
