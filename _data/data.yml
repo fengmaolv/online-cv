@@ -44,9 +44,11 @@ career-profile:
     summary: |
       I am currently an assistant professor in Center of Statistical
       Research & School of Statistics, Southwestern University of Finance and Economics,
-      China. My research interests are in machine learning, deep learning, transfer 
+      China. I received my Ph.D. degree and B.S degree in computer science 
+      from  University of Electronic Science and Technology of China in 2013 and 2018, respectively.
+      My research interests are in machine learning, deep learning, transfer 
       learning and their applications in computer vision, e.g., semantic segmentation, 
-      medical imaging analysis, etc. 
+      medical imaging analysis, etc.  
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Please email me with your CV for enquiries if you are interested in my research area.
@@ -154,7 +156,7 @@ publications:
         conference: "Journal on Communications, 2015, 36(6):94-104. (in Chinese)"
 
 projects:
-    title: Group 
+    title: Student 
     assignments:
 
       - title: Zhantao Cao, Phd student
