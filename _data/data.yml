@@ -44,20 +44,12 @@ education:
       university: University of Electronic Science and Technology of China
       time: 2009 - 2013
 
-projects:
-    title: Research  
-    assignments:
-      - title: Machine Learning & Deep Learning
-        link: "#"
-        tagline: Weakly-supervised learning, multi-label learning
+experiences:
+    title: Research
+    - role: Machine Learning & Deep Learning: weakly-supervised learning, multi-label learning
+    - role: Transfer Learning: domain adaptation, zero-shot learning
+    - role: Computer Vision: semantic segmentation, medical imaging analysis
 
-      - title: Transfer learning 
-        link: "#"
-        tagline: Domain adaptation, zero-shot learning
-
-      - title: Computer Vision
-        link: "#hook"
-        tagline: Semantic segmentation, medical imaging analysis
  
 publications:
     title: Selected Publications
