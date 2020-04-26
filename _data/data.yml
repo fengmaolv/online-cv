@@ -44,11 +44,12 @@ education:
 
 experiences:
     - role:  
-      time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
-          - Bullet point
-          - Bullet point
+          - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
+          - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
+          - Computer Vision: semantic segmentation, medical imaging analysis
+          
  
 publications:
     title: Selected Publications
