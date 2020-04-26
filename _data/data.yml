@@ -43,11 +43,10 @@ education:
       time: 2009 - 2013
 
 experiences:
-    title: Research Interests
+    title: Research Interest
     intro: |
     papers:
       - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation:a non-adversarial approach"
-        conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019:6758-6767. (CCF A)    
           
 publications:
     title: Selected Publications
