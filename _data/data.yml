@@ -52,18 +52,7 @@ career-profile:
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Please email me with your CV for enquiries if you are interested in my research area.
-      
-education:
-    - degree: Ph.D in Computer Science
-      university: University of Electronic Science and Technology of China
-      time: 2013 - 2018
-      details: |
-          - Visiting student, School of Computer Science and Engineering, Nanyang Technological University (2017-2018)
-          - Visiting student, State Key Laboratory of Intelligent Technology and System, Tsinghua University (2016-2017)
-    - degree: B.S in Computer Science
-      university: University of Electronic Science and Technology of China
-      time: 2009 - 2013
-      
+     
 experiences:
     - role: Assistant Professor
       time: 2019 - present
