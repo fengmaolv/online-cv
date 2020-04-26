@@ -142,37 +142,37 @@ projects:
     title: Student 
     assignments:
 
-      - title: Zhantao Cao, Phd student
+      - title: Zhantao Cao, Phd student (from May, 2019, co-advised from UESTC)
         link: "#"
-        tagline:  (from May, 2019, co-advised from UESTC)
+        tagline: 
 
-      - title: Defu Liu, Phd student
+      - title: Defu Liu, Phd student (from September, 2019, co-advised from UESTC)
         link: "#"
-        tagline:  (from September, 2019, co-advised from UESTC)
+        tagline:  
 
-      - title: Tao Liang, Research assistant
+      - title: Tao Liang, Research assistant (from April, 2019) 
         link: "#hook"
-        tagline:  (from April, 2019) 
+        tagline:  
 
-      - title: Xiaoxue Gao, Master student
+      - title: Xiaoxue Gao, Master student (from September, 2019)
         link: "#"
-        tagline:  (from September, 2019)
+        tagline:  
                 
-      - title: Zhihao Jiang, Master student
+      - title: Zhihao Jiang, Master student (from September, 2019)
         link: "#"
-        tagline:  (from September, 2019)
+        tagline:  
         
-      - title: Jianyang Zhang, Undergraduate student
+      - title: Jianyang Zhang, Undergraduate student (from July, 2019)
         link: "#"
-        tagline:  (from July, 2019)
+        tagline:  
 
-      - title: Jiayi Zhao, Undergraduate student
+      - title: Jiayi Zhao, Undergraduate student (from July, 2019)
         link: "#"
-        tagline:  (from September, 2019)
+        tagline:  
                 
-      - title: Xinyu Zhang, Undergraduate student
+      - title: Xinyu Zhang, Undergraduate student (from July, 2019)
         link: "#"
-        tagline:  (from November, 2019)
+        tagline:  
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
