@@ -61,38 +61,17 @@ education:
 projects:
     title: Research  
     assignments:
-
-      - title: Zhantao Cao, Phd student 
+      - title: Machine Learning & Deep Learning
         link: "#"
-        tagline: (from May, 2019, co-advised from UESTC)
+        tagline: Weakly-supervised learning, multi-label learning
 
-      - title: Defu Liu, Phd student 
+      - title: Transfer learning 
         link: "#"
-        tagline:  (from September, 2019, co-advised from UESTC)
+        tagline: Domain adaptation, zero-shot learning
 
-      - title: Tao Liang, Research assistant
+      - title: Computer Vision
         link: "#hook"
-        tagline:   (from April, 2019) 
-
-      - title: Xiaoxue Gao, Master student
-        link: "#"
-        tagline:   (from September, 2019)
-                
-      - title: Zhihao Jiang, Master student 
-        link: "#"
-        tagline:  (from September, 2019)
-        
-      - title: Jianyang Zhang, Undergraduate student 
-        link: "#"
-        tagline:  (from July, 2019)
-
-      - title: Jiayi Zhao, Undergraduate student 
-        link: "#"
-        tagline:  (from July, 2019)
-                
-      - title: Xinyu Zhang, Undergraduate student
-        link: "#"
-        tagline:   (from July, 2019)
+        tagline: Semantic segmentation, medical imaging analysis
  
 publications:
     title: Selected Publications
