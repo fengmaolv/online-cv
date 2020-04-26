@@ -58,6 +58,41 @@ education:
       university: University of Electronic Science and Technology of China
       time: 2009 - 2013
 
+projects:
+    title: Research  
+    assignments:
+
+      - title: Zhantao Cao, Phd student 
+        link: "#"
+        tagline: (from May, 2019, co-advised from UESTC)
+
+      - title: Defu Liu, Phd student 
+        link: "#"
+        tagline:  (from September, 2019, co-advised from UESTC)
+
+      - title: Tao Liang, Research assistant
+        link: "#hook"
+        tagline:   (from April, 2019) 
+
+      - title: Xiaoxue Gao, Master student
+        link: "#"
+        tagline:   (from September, 2019)
+                
+      - title: Zhihao Jiang, Master student 
+        link: "#"
+        tagline:  (from September, 2019)
+        
+      - title: Jianyang Zhang, Undergraduate student 
+        link: "#"
+        tagline:  (from July, 2019)
+
+      - title: Jiayi Zhao, Undergraduate student 
+        link: "#"
+        tagline:  (from July, 2019)
+                
+      - title: Xinyu Zhang, Undergraduate student
+        link: "#"
+        tagline:   (from July, 2019)
  
 publications:
     title: Selected Publications
