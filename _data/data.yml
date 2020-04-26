@@ -43,7 +43,8 @@ education:
       time: 2009 - 2013
 
 experiences:
-     My research topics include
+    - role: Lead Developer
+      details: |
         - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
         - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
         - Computer Vision: semantic segmentation, medical imaging analysis
