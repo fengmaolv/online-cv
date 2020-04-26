@@ -45,7 +45,6 @@ education:
       time: 2009 - 2013
 
 experiences:
-    title: Research
     - role: Machine Learning & Deep Learning: weakly-supervised learning, multi-label learning
     - role: Transfer Learning: domain adaptation, zero-shot learning
     - role: Computer Vision: semantic segmentation, medical imaging analysis
