@@ -74,12 +74,12 @@ publications:
       - title: "Can cross entropy loss be robust to label noise?"
         link: "#"
         authors: Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An
-        conference: International Joint Conference on Artifical Intellegence (IJCAI), 2020, accepted. (CCFA)
+        conference: International Joint Conference on Artifical Intellegence (IJCAI), 2020, accepted. (CCF A)
 
       - title: "Cross-domain semantic segmentation via domain-invariant interactive relation transfer"
         link: "#"
         authors: Fengmao Lv*, Tao Liang, Xiang Chen, Guosheng Lin
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020, accepted. (CCFA)
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020, accepted. (CCF A)
 
       - title: "Gradient boosting tree for 1H-MRS Alzheimer diagnosis"
         link: "#"
@@ -94,7 +94,7 @@ publications:
       - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation: a non-adversarial approach"
         link: "#"
         authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
-        conference: Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2019: 6758-6767. (CCFA)
+        conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019: 6758-6767. (CCF A)
                 
       - title: "TarGAN: generating target data with class labels for unsupervised domain adaptation"
         link: "#"
@@ -109,7 +109,7 @@ publications:
       - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
         link: "#"
         authors: Fengmao Lv, Yuchen Li and Guowu Yang
-        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine(BIBM), 2018: 913-918. (CCFB) "
+        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018: 913-918. (CCF B) "
         
       - title: "Improving target discriminability for unsupervised domain adaptation"
         link: "#"
