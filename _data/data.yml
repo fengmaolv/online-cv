@@ -22,20 +22,6 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    interests:
-      - item: Artificial Intelligence
-        link:
-
-      - item: Machine Learning
-        link:
-
-      - item: Deep Learning
-        link:
-
-      - item: Transfer Learning 
-        link:
-        
-      - item: Computer Vision
 
 career-profile:
     title: About me
