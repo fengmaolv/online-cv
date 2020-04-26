@@ -39,6 +39,15 @@ sidebar:
         
       - item: Computer Vision
 
+about me:
+I am currently an assistant professor in Center of Statistical Research & School of Statistics, 
+Southwestern University of Finance and Economics, China. My research interests are in machine learning,
+deep learning, transfer learning and their applications in computer vision, e.g., semantic segmentation, 
+medical imaging analysis, etc. 
+
+I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised).
+Please email me with your CV for enquiries.
+
 
 education:
     - degree: Ph.D in Computer Science
@@ -54,7 +63,7 @@ education:
 experiences:
     - role: Assistant Professor
       time: 2019 - present
-      company: Center of Statistical Research & School of Statistics, South western University of Finance and Economics 
+      company: Center of Statistical Research & School of Statistics, Southwestern University of Finance and Economics 
       details: |
      
  
@@ -155,37 +164,37 @@ publications:
 projects:
     title: Group 
     assignments:
-      - title: Tao Liang
+      - title: Tao Liang, Phd student
         link: "#hook"
-        tagline: Research assistant (from April, 2019) 
+        tagline:  (from April, 2019) 
 
-      - title: Zhantao Cao
+      - title: Zhantao Cao, Phd student
         link: "#"
-        tagline: Phd student (from May, 2019, co-advised from UESTC)
+        tagline:  (from May, 2019, co-advised from UESTC)
 
-      - title: Defu Liu
+      - title: Defu Liu, Phd student
         link: "#"
-        tagline: Phd student (from September, 2019, co-advised from UESTC)
+        tagline:  (from September, 2019, co-advised from UESTC)
 
-      - title: Xiaoxue Gao
+      - title: Xiaoxue Gao, Master student
         link: "#"
-        tagline: Master student (from September, 2019)
+        tagline:  (from September, 2019)
                 
-      - title: Zhihao Jiang
+      - title: Zhihao Jiang, Master student
         link: "#"
-        tagline: Master student (from September, 2019)
+        tagline:  (from September, 2019)
         
-      - title: Jianyang Zhang
+      - title: Jianyang Zhang, Undergraduate student
         link: "#"
-        tagline: Undergraduate student (from July, 2019)
+        tagline:  (from July, 2019)
 
-      - title: Jiayi Zhao
+      - title: Jiayi Zhao, Undergraduate student
         link: "#"
-        tagline: Undergraduate student (from September, 2019)
+        tagline:  (from September, 2019)
                 
-      - title: Xinyu Zhang
+      - title: Xinyu Zhang, Undergraduate student
         link: "#"
-        tagline: Undergraduate student (from November, 2019)
+        tagline:  (from November, 2019)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
