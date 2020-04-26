@@ -110,12 +110,7 @@ publications:
         link: "#"
         authors: Fengmao Lv, Yuchen Li and Guowu Yang
         conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018: 913-918. (CCF B) "
-        
-      - title: "Improving target discriminability for unsupervised domain adaptation"
-        link: "#"
-        authors: Fengmao Lv, Hao Chen, Jinzhao Wu,etal
-        conference: "Proceedings of the International Conference on Neural Information Processing, 2018: 287-298."
-        
+                
       - title: "Impacts of opinion leaders on social contagions"
         link: "#"
         authors: Quanhui Liu, Fengmao Lv,Qian Zhang, Ming Tang, Tao Zhou
@@ -130,11 +125,6 @@ publications:
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
         conference: "Knowledge-Based Systems, 2017, 136: 15-26."
-        
-      - title: "A nomaly detection for categorical observations using latent Gaussian process"
-        link: "#"
-        authors: Fengmao Lv, Guowu Yang, Jinzhao Wu, Chuan Liu, Yuhong Yang
-        conference: "Proceedings of the International Conference on Neural Information Processing, 2017: 285-296."
         
       - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
         link: "#"
