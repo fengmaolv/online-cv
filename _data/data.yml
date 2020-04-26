@@ -125,7 +125,8 @@ publications:
       - title: "The convergence and termination criterion of quantum inspired evolutionary neural networks"
         link: "#"
         authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
-        conference: "Neurocomputing, 2017, 238: 157-167."
+        conference: "Neurocomputing, 2017, 238: 157-167
+        ."
         
       - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
         link: "#"
