@@ -15,7 +15,6 @@ sidebar:
     email: fengmaolv(AT)126.com 
     website:  #do not add http://
     linkedin: 
-    github: fengmaolv
     gitlab:
     bitbucket:
     twitter: 
@@ -23,6 +22,13 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    education:
+    - degree: Ph.D. in Computer Science
+      university: University of Electronic Science and Technology of China
+      time: 2013 - 2018    
+    - degree: B.E. in Computer Science
+      university: University of Electronic Science and Technology of China
+      time: 2009 - 2013
 
     interests:
       - item: Artificial Intelligence
@@ -52,7 +58,7 @@ career-profile:
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Feel free to contact me if you are interested in my research area.
-          
+
  
 publications:
     title: Selected Publications
