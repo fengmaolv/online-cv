@@ -28,9 +28,7 @@ career-profile:
     summary: |
       I am currently an assistant professor in Center of Statistical
       Research & School of Statistics, Southwestern University of Finance and Economics,
-      China. I received my Ph.D. degree and B.E. degree in computer science 
-      from  University of Electronic Science and Technology of China in 2013 and 2018, respectively.
-      My research interests are in machine learning, deep learning, transfer 
+      China. My research interests are in machine learning, deep learning, transfer 
       learning and their applications in computer vision, e.g., semantic segmentation, 
       medical imaging analysis, etc.  
       
@@ -45,9 +43,9 @@ education:
       time: 2009 - 2013
 
 experiences:
-    - role: Machine Learning & Deep Learning: weakly-supervised learning, multi-label learning
-    - role: Transfer Learning: domain adaptation, zero-shot learning
-    - role: Computer Vision: semantic segmentation, medical imaging analysis
+    - role: Machine Learning & Deep Learning - weakly-supervised learning, multi-task learning, multi-label learning
+    - role: Transfer Learning - domain adaptation, zero-shot learning, few-shot learning
+    - role: Computer Vision - semantic segmentation, medical imaging analysis
 
  
 publications:
