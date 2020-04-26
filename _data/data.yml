@@ -35,7 +35,6 @@ career-profile:
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Feel free to contact me if you are interested in my research area.
 education:
-    title: Research
     - degree: Ph.D. in Computer Science
       university: University of Electronic Science and Technology of China
       time: 2013 - 2018    
@@ -44,6 +43,7 @@ education:
       time: 2009 - 2013
 
 experiences:
+    title: Research
     - role:  sa
       details: |
           - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
