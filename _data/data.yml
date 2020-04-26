@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Fengmao Lv
-    tagline: Assistant professor
+    tagline: Assistant Professor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,13 +47,13 @@ education:
       details: |
           - Visiting student, School of Computer Science and Engineering, Nanyang Technological University (2017-2018)
           - Visiting student, State Key Laboratory of Intelligent Technology and System, Tsinghua University (2016-2017)
-    - degree: BS in Computer Science
+    - degree: B.S in Computer Science
       university: University of Electronic Science and Technology of China
       time: 2009 - 2013
       
 experiences:
     - role: Assistant Professor
-      time: 2019 - Present
+      time: 2019 - present
       company: Center of Statistical Research & School of Statistics, South western University of Finance and Economics 
       details: |
      
@@ -87,7 +87,7 @@ publications:
         authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
         conference: Proceedings of the IEEE International Conference on Computer Vision(ICCV), 2019: 6758-6767. (CCFA)
                 
-      - title: "TarGAN: Generating target data with class labels for unsupervised domain adaptation"
+      - title: "TarGAN: generating target data with class labels for unsupervised domain adaptation"
         link: "#"
         authors:  Fengmao Lv, Jun Zhu, Guowu Yang, Lixin Duan
         conference: "Knowledge-Based Systems, 2019, 172: 123-129."
@@ -100,7 +100,7 @@ publications:
       - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
         link: "#"
         authors: Fengmao Lv, Yuchen Li and Guowu Yang
-        conference: "IEEE International Conference on Bioinformatics and Biomedicine(BIBM), 2018: 913-918. (CCFB) "
+        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine(BIBM), 2018: 913-918. (CCFB) "
         
       - title: "Improving target discriminability for unsupervised domain adaptation"
         link: "#"
@@ -110,16 +110,16 @@ publications:
       - title: "Impacts of opinion leaders on social contagions"
         link: "#"
         authors: Quanhui Liu, Fengmao Lv,Qian Zhang, Ming Tang, Tao Zhou
-        conference: "Chaos: An Inter disciplinary Journal of Nonlinear Science, 2018, 28(5): 053103."
+        conference: "Chaos: An Interdisciplinary Journal of Nonlinear Science, 2018, 28(5): 053103."
         
       - title: "Domain adaptive semantic segmentation through structure enhancement"
         link: "#"
         authors: Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan
-        conference: "European Conference on Computer Vision Workshops, 2018. "
+        conference: "Proceedings of the European Conference on Computer Vision Workshops, 2018(2): 172-179. "
                 
       - title: "A new centroid based classiﬁcation model for text categorization"
         link: "#"
-        authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang and Fengmao Lv
+        authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
         conference: "Knowledge-Based Systems, 2017, 136: 15-26."
         
       - title: "A nomaly detection for categorical observations using latent Gaussian process"
@@ -145,15 +145,15 @@ publications:
       - title: "An eﬀective conversation based botnet detection method"
         link: "#"
         authors: Ruidong Chen, Weina Niu, Xiaosong Zhang, Zhongliu Zhuo, Fengmao Lv.
-        conference: "Mathematical Problemsin Engineering, 2017."
+        conference: "Mathematical Problems in Engineering, 2017."
         
       - title: "An optimized coverage algorithm of wireless video sensor network based on quantum genetic algorithm"
         link: "#"
         authors: Fuyou Fan, Guowu Yang, Qianqi Le, Fengmao Lv, Chao Zhao
-        conference: "Journalon Communications, 2015, (In Chinese)."
+        conference: "Journal on Communications, 2015, 36(6): 94-104. (in Chinese)"
 
 projects:
-    title: Group
+    title: Group 
     assignments:
       - title: Tao Liang
         link: "#hook"
