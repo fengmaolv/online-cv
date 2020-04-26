@@ -43,9 +43,9 @@ education:
       time: 2009 - 2013
 
 experiences:
-    - role: Machine Learning & Deep Learning - weakly-supervised learning, multi-task learning, multi-label learning
-    - role: Transfer Learning - domain adaptation, zero-shot learning, few-shot learning
-    - role: Computer Vision - semantic segmentation, medical imaging analysis
+    Machine Learning & Deep Learning - weakly-supervised learning, multi-task learning, multi-label learning
+    Transfer Learning - domain adaptation, zero-shot learning, few-shot learning
+    Computer Vision - semantic segmentation, medical imaging analysis
 
  
 publications:
@@ -138,11 +138,11 @@ projects:
 
       - title: Zhantao Cao, Phd student 
         link: "#"
-        tagline: From May, 2019, co-advised from UESTC)
+        tagline: From May, 2019, co-advised from UESTC
 
       - title: Defu Liu, Phd student 
         link: "#"
-        tagline:  From September, 2019, co-advised from UESTC)
+        tagline:  From September, 2019, co-advised from UESTC
 
       - title: Tao Liang, Research assistant
         link: "#hook"
