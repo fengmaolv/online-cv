@@ -46,9 +46,9 @@ experiences:
     - role:  
       details: |
         My research topics include
-          - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
-          - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
-          - Computer Vision: semantic segmentation, medical imaging analysis
+        - Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning
+        - Transfer Learning: domain adaptation, zero-shot learning, few-shot learning
+        - Computer Vision: semantic segmentation, medical imaging analysis
           
  
 publications:
