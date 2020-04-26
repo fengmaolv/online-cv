@@ -46,7 +46,10 @@ experiences:
     title: Research Interest
     intro: |
     papers:
-      - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation:a non-adversarial approach"
+      - title: "Machine Learning & Deep Learning"
+      - title: "Transfer Learning"
+      - title: "Computer Vision"
+
           
 publications:
     title: Selected Publications
