@@ -12,12 +12,6 @@
   </h2>
   
 
-  {% if experiences.intro %}
-  <div class="intro">
-    {{ experiences.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
-
   {% for experiences in experiences.papers %}
   <div class="item">
     <li>{{ experiences.title }}</li>
