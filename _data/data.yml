@@ -44,7 +44,7 @@ education:
 
 experiences:
     papers:
-      - title: "Machine Learning & Deep Learning: weakly-supervised learning, multi-task learning, multi-label learning"
+      - title: "Machine Learning & Deep Learning: weakly-supervised learning, multi-label learning"
       - title: "Transfer Learning: domain adaptation, zero-shot learning, few-shot learning"
       - title: "Computer Vision: semantic segmentation, medical imaging analysis"
 
