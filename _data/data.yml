@@ -101,7 +101,12 @@ publications:
         link: "#"
         authors: Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan
         conference: "Proceedings of the European Conference on Computer Vision Workshops, 2018(2):172-179. "
-                
+  
+      - title: "Improving target discriminability for unsupervised domain adaptation"
+        link: "#"
+        authors: Fengmao Lv, Hao Chen, Jinzhao Wu, Linfeng Zhong, Xiaoyu Li, Guowu Yang
+        conference: "Proceedings of the International Conference on Neural Information Processing, 2018:287-298."  
+  
       - title: "A new centroid based classiﬁcation model for text categorization"
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
