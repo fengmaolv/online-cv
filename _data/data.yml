@@ -52,6 +52,12 @@ publications:
     title: Selected Publications
     intro: |
     papers:
+    
+      - title: "Tree Relation Reasoning for Compositional Visual Question Answering"
+        link: "#"
+        authors: Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu
+        conference: European Conference on Computer Vision (ECCV), 2020, accepted. 
+
       - title: "Can cross entropy loss be robust to label noise?"
         link: "#"
         authors: Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An
@@ -60,7 +66,7 @@ publications:
       - title: "Cross-domain semantic segmentation via domain-invariant interactive relation transfer"
         link: "#"
         authors: Fengmao Lv*, Tao Liang, Xiang Chen, Guosheng Lin
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020, accepted. 
+        conference: Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020:4334-4343. 
 
       - title: "Gradient boosting tree for 1H-MRS Alzheimer diagnosis"
         link: "#"
