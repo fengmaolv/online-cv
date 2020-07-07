@@ -122,7 +122,12 @@ publications:
         link: "#"
         authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
         conference: "Knowledge-Based Systems, 2017, 116:58-73."        
-        
+
+      - title: "Anomaly detection for categorical observations using latent Gaussian process"
+        link: "#"
+        authors: Fengmao Lv, Guowu Yang, Jinzhao Wu, Chuan Liu, Yuhong Yang
+        conference: "Proceedings of the International Conference on Neural Information Processing, 2017:285-296."  
+     
       - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
         link: "#"
         authors: Fengmao Lv,Guowu Yang, William Zhu, Chuan Liu
