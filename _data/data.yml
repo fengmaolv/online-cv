@@ -152,37 +152,43 @@ projects:
     title: Group  
     assignments:
 
-      - title: Zhantao Cao, Phd student 
-        link: "#hook"
-        tagline: (From May, 2019, co-advised from UESTC)
-
       - title: Defu Liu, Phd student 
         link: "#"
-        tagline:  (From September, 2019, co-advised from UESTC)
+        tagline:  (From Sept. 2019, co-advised from UESTC)
 
       - title: Tao Liang, Research assistant
         link: "#"
-        tagline:   (From April, 2019)
+        tagline:   (From Apr. 2019)
 
       - title: Xiaoxue Gao, Master student
         link: "#"
-        tagline:   (From September, 2019)
+        tagline:   (From Sept. 2019)
                 
       - title: Zhihao Jiang, Master student 
         link: "#"
-        tagline:  (From September, 2019)
-        
+        tagline:  (From Sept. 2019)
+                        
+      - title: Xinyu Zhang, Undergraduate student
+        link: "#"
+        tagline:   (From Nov. 2019)
+
+
+projects:
+    title: Alumni  
+    assignments:
+
+      - title: Zhantao Cao, Phd student 
+        link: "#hook"
+        tagline: (From May. 2019 - Jun. 2020, co-advised from UESTC.)
+
       - title: Jianyang Zhang, Undergraduate student 
         link: "#"
-        tagline:  (From July, 2019)
+        tagline:  (From Jul. 2019 - Jun. 2020. Now. PhD student @ UESTC)
 
       - title: Jiayi Zhao, Undergraduate student 
         link: "#"
-        tagline:  (From October, 2019)
-                
-      - title: Xinyu Zhang, Undergraduate student
-        link: "#"
-        tagline:   (From November, 2019)
+        tagline:  (From Oct. 2019 - Jun. 2020. Now: Master student @ Yale University, USA)
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">fengmao lv</a>
