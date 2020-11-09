@@ -68,13 +68,13 @@ publications:
       - title: "Learning unbiased zero-shot semantic segmentation networks via transductive transfer"
         link: "#"
         authors: Fengmao Lv, Haiyang Liu, Yichen Wang, Jiayi Zhao, Guowu Yang
-        conference: IEEE Signal Processing Letters, 2020, 27: 1640-1644.
+        conference: IEEE Signal Processing Letters, 2020, 27:1640-1644.
 
 
-      - title: "Can cross entropy loss be robust to label noise?"
+      - title: "Can cross entropy loss be robust to label noise"
         link: "#"
         authors: Lei Feng, Senlin Shu, Zhuoyi Lin, Fengmao Lv, Li Li, Bo An
-        conference: International Joint Conference on Artificial Intelligence (IJCAI), 2020, accepted. 
+        conference: Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2020:2206-2212. 
 
       - title: "Cross-domain semantic segmentation via domain-invariant interactive relation transfer"
         link: "#"
