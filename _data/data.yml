@@ -53,7 +53,7 @@ publications:
     intro: |
     papers:
     
-        - title: "Long short term memory on abstract syntax tree for SQL injection detection"
+      - title: "Long short term memory on abstract syntax tree for SQL injection detection"
         link: "#"
         authors: Zhongliu Zhuo, Tao Cai, Xinyu Zhang, Fengmao Lv*
         conference: IET Software, 2020, accepted.
