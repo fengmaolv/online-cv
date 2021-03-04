@@ -53,13 +53,13 @@ publications:
     intro: |
     papers:
     
-       - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
+      - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
         link: "#"
         authors: Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin
         conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2021, accepted.
 
     
-       - title: "Robust binary Loss for multi-category classification with label noise"
+      - title: "Robust binary Loss for multi-category classification with label noise"
         link: "#"
         authors: Defu Liu, Guowu Yang, Jinzhao Wu, Jiayi Zhao, Fengmao Lv*
         conference: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, accepted.
