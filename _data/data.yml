@@ -53,21 +53,39 @@ publications:
     intro: |
     papers:
     
+       - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
+        link: "#"
+        authors: Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2021, accepted.
+
+    
+       - title: "Robust binary Loss for multi-category classification with label noise"
+        link: "#"
+        authors: Defu Liu, Guowu Yang, Jinzhao Wu, Jiayi Zhao, Fengmao Lv*
+        conference: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, accepted.
+
+    
+      - title: "Latent Gaussian process for anomaly detection in categorical data"
+        link: "#"
+        authors: Fengmao Lv, Jiayi Zhao, Tao Liang, Zhongliu Zhuo, Jinzhao Wu, Guowu Yang
+        conference: Knowledge-based Systems, 2021, accepted.
+
+    
       - title: "Long short term memory on abstract syntax tree for SQL injection detection"
         link: "#"
         authors: Zhongliu Zhuo, Tao Cai, Xinyu Zhang, Fengmao Lv*
-        conference: IET Software, 2020, accepted.
+        conference: IET Software, 2021, accepted.
 
       - title: "Weakly-supervised cross-domain road scene segmentation via multi-level curriculum adaptation"
         link: "#"
         authors: Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan
-        conference: IEEE Transactions on Circuits and Systems for Video Technology, 2020, accepted.
+        conference: IEEE Transactions on Circuits and Systems for Video Technology, 2021, accepted.
 
     
       - title: "TRRNet: tiered relation reasoning for compositional visual question answering"
         link: "#"
         authors: Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu
-        conference: European Conference on Computer Vision (ECCV), 2020, accepted. 
+        conference: Proceedings of the European Conference on Computer Vision (ECCV), 2020:414-430. 
 
       - title: "Learning unbiased zero-shot semantic segmentation networks via transductive transfer"
         link: "#"
