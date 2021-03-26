@@ -53,6 +53,12 @@ publications:
     intro: |
     papers:
     
+      - title: "Weakly-supervised domain adaptation for aspect term extraction via multi-level interaction transfer"
+        link: "#"
+        authors: Tao Liang, Wenya Wang, Fengmao*
+        conference: IEEE Transactions on Neural Networks and Learning Systems, 2021, accepted.
+
+    
       - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
         link: "#"
         authors: Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin
