@@ -53,6 +53,17 @@ publications:
     intro: |
     papers:
     
+      - title: "Attention is not enough: mitigating the distribution discrepancy in asynchronous multimodal sequence fusion"
+        link: "#"
+        authors: Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv*
+        conference: IEEE International Conference on Computer Vision (ICCV), 2021, accepted.
+
+      - title: "Adaptive graph-based generalized regression model for unsupervised feature selection"
+        link: "#"
+        authors: Yanyong Huang, Zongxin Shen, Fuxu Cai, Tianrui Li, Fengmao Lv*
+        conference: Knowledge-based Systems, 2021, accepted.
+
+    
       - title: "Weakly-supervised domain adaptation for aspect term extraction via multi-level interaction transfer"
         link: "#"
         authors: Tao Liang, Wenya Wang, Fengmao Lv*
