@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Fengmao Lv
-    tagline: Assistant Professor
+    tagline: Associate Professor
     avatar: touxiang3.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,9 +26,8 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am  an assistant professor in Center of Statistical
-      Research & School of Statistics, Southwestern University of Finance and Economics,
-      China. My research interests are in machine learning, deep learning, transfer 
+      I will soon join the ``School of Computing and Artificial Inteligence, Southwest Jiaotong University,
+      China'' as an Associate Professor. My research interests are in machine learning, deep learning, transfer 
       learning and their applications in computer vision.  
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
