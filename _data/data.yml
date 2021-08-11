@@ -28,7 +28,7 @@ career-profile:
     summary: |
       I will soon join the "School of Computing and Artificial Inteligence, Southwest Jiaotong University,
       China" as an Associate Professor. My research interests are in machine learning, deep learning, transfer 
-      learning and their applications in computer vision.  
+      learning and their applications in computer vision. 
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Feel free to contact me if you are interested in my research area.
@@ -189,6 +189,16 @@ publications:
         authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
         conference: "Neurocomputing, 2017, 238:157-167."
                 
+
+projects:
+    title: Service  
+    assignments:
+
+      - Conference PC: AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021.
+
+      - Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Geoscience and Remote Sensing (TGRS), ACM Transactions on Multimedia Computing, Communications, and Applications(TOMM), Pattern Recognition (PR).
+
+
 
 projects:
     title: Group  
