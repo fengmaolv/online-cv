@@ -194,12 +194,10 @@ experiences1:
     title: Service  
     assignments:
     
-      - title: Conference PC Member
-        link: "#"
+      - title: Conference PC Member:
         tagline: AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022.
      
-      - title: Journal Reviewer
-        link: "#"
+      - title: Journal Reviewer:
         tagline: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Geoscience and Remote Sensing (TGRS), ACM Transactions on Multimedia Computing, Communications, and Applications(TOMM), Pattern Recognition (PR).
      
      
