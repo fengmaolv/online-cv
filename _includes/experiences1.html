@@ -10,11 +10,6 @@
     {{ experiences1.title }}
   </h2>
 
-  {% if experiences1.intro %}
-  <div class="intro">
-      {{ experiences1.intro }}
-  </div><!--//intro-->
-  {% endif %}
 
   {% for experiences1 in experiences1.assignments %}
     <div class="item">
@@ -26,6 +21,7 @@
       
       {% if experiences1.tagline %}
        <span class="experiences1-tagline">{{ experiences1.tagline }}</span>
+      </span>
       {% endif %}
 
     </div><!--//item-->
