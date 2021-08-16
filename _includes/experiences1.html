@@ -1,5 +1,5 @@
-{% assign experiences = site.data.data.experiences %}
-{% if experiences %}
+{% assign experiences1 = site.data.data.experiences1 %}
+{% if experiences1 %}
 
 <section class="section publications-section">
 
@@ -8,14 +8,14 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Research Interests
+    Service
   </h2>
   
 
-  {% for experiences in experiences.papers %}
+  {% for experiences1 in experiences1.papers %}
   <div class="item">
-    <li>{{ experiences.title }}</li>
-    <div class="publication-conference">{{ experiences.conference }}</div>
+    <li>{{ experiences1.title }}</li>
+    <div class="publication-conference">{{ experiences1.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
