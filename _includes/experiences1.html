@@ -16,16 +16,16 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for project in experiences1.assignments %}
+  {% for experiences1 in experiences1.assignments %}
     <div class="item">
-      {% if project.link %}
-      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      {% if experiences1.link %}
+      <a href="{{ experiences1.link }}" target="_blank">{{ experiences1.title }}</a>
       {% else %}
-      {{ project.title }}
+      {{ experiences1.title }}
       {% endif %}
       
-      {% if project.tagline %}
-       <span class="project-tagline">{{ project.tagline }}</span>
+      {% if experiences1.tagline %}
+       <span class="experiences1-tagline">{{ experiences1.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->
