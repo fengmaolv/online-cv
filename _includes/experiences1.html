@@ -1,6 +1,6 @@
-{% assign experiences1 = site.data.data.experiences1 %}
+{% assign experiences1 = site.data.data.projects %}
 {% if experiences1 %}
-<section class="section experiences1-section">
+<section class="section projects-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
@@ -11,18 +11,17 @@
   </h2>
 
 
-  {% for experiences1 in experiences1.assignments %}
+  {% for project in experiences1.assignments %}
     <div class="item">
-      {% if experiences1.link %}
-      <a href="{{ experiences1.link }}" target="_blank">{{ experiences1.title }}</a>
+      {% if project.link %}
+      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
       {% else %}
-      {{ experiences1.title }}
+      {{ project.title }}
       {% endif %}
       
-      {% if experiences1.tagline %}
-       <span class="experiences1-tagline">{{ experiences1.tagline }}</span>
+      {% if project.tagline %}
+       <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-    </span>
 
     </div><!--//item-->
   {% endfor %}
