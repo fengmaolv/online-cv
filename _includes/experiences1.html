@@ -12,7 +12,7 @@
 
 
   {% for experiences1 in experiences1.assignments %}
-    <div class="item">
+  <div class="item">
       {% if experiences1.link %}
       <a href="{{ experiences1.link }}" target="_blank">{{ experiences1.title }}</a>
       {% else %}
@@ -21,10 +21,9 @@
       
       {% if experiences1.tagline %}
        <span class="experiences1-tagline">{{ experiences1.tagline }}</span>
-      </span>
       {% endif %}
 
-    </div><!--//item-->
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
