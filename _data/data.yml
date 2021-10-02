@@ -26,8 +26,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I will soon join the "School of Computing and Artificial Inteligence, Southwest Jiaotong University,
-      China" as an Associate Professor. My research interests are in machine learning, deep learning, transfer 
+      I am currently an Associate Professor the School of Computing and Artificial Inteligence, Southwest Jiaotong University. My research interests are in machine learning, deep learning, transfer 
       learning and their applications in computer vision. 
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
@@ -196,11 +195,11 @@ experiences1:
     
       - title: Conference PC Member
         link: "#"      
-        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022.
+        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022, CVPR 2022.
      
       - title: Journal Reviewer
         link: "#"      
-        tagline:  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Geoscience and Remote Sensing (TGRS), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Multimedia Tools and Applications (MTA), IET Computer Vision (IET-CVI), IET Intelligent Transport Systems (IET-ITS), Security and Communication Networks (SCN).
+        tagline:  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Geoscience and Remote Sensing (TGRS), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Knowledge-Based Systems (KBS), Multimedia Tools and Applications (MTA), IET Computer Vision (IET-CVI), IET Intelligent Transport Systems (IET-ITS), Security and Communication Networks (SCN).
 
      
      
