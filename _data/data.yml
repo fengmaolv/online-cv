@@ -51,6 +51,13 @@ publications:
     intro: |
     papers:
     
+
+      - title: "Multi-category classification with label noise by robust binary loss"
+        link: "#"
+        authors: Defu Liu, Jiayi Zhao, Jinzhao Wu, Guowu Yang, Fengmao Lv
+        conference: Neurocomputing, 2022, accepted.
+
+    
       - title: "Incorporating multiple cluster centers for multi-label learning"
         link: "#"
         authors: Senlin Shu, Fengmao Lv, Yan Yan, Li Li, Shuo He, Jun He
