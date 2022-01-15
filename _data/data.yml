@@ -51,6 +51,12 @@ publications:
     intro: |
     papers:
     
+      - title: "Incorporating multiple cluster centers for multi-label learning"
+        link: "#"
+        authors: Senlin Shu, Fengmao Lv, Yan Yan, Li Li, Shuo He, Jun He
+        conference: Information Sciences, 2022, 590:60-73.
+        
+    
       - title: "Attention is not enough: mitigating the distribution discrepancy in asynchronous multimodal sequence fusion"
         link: "#"
         authors: Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv*
