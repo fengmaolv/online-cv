@@ -52,6 +52,12 @@ publications:
     papers:
     
 
+      - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
+        link: "#"
+        authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted.
+
+
       - title: "Multi-category classification with label noise by robust binary loss"
         link: "#"
         authors: Defu Liu, Jiayi Zhao, Jinzhao Wu, Guowu Yang, Fengmao Lv*
@@ -208,7 +214,7 @@ experiences1:
     
       - title: Conference PC Member
         link: "#"      
-        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022, CVPR 2022.
+        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022, CVPR 2022, ECCV 2022.
      
       - title: Journal Reviewer
         link: "#"      
