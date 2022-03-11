@@ -43,8 +43,8 @@ experiences:
     papers:
       - title: "Machine Learning: PAC learning theory, quantum machine learning"
       - title: "Transfer Learning: domain adaptation, zero-shot learning"
-      - title: "Computer Vision: semantic segmentation, medical imaging analysis, video understanding, multimodal learning"
-      - title: "Natural Language Processing: sentiment analysis, aspect aspect extraction, multimodal learning"
+      - title: "Computer Vision: semantic segmentation, medical imaging analysis"
+      - title: "Natural Language Processing: sentiment analysis, aspect aspect extraction"
       - title: "Computational Biology: genome editing, single-cell sequencing"
       
 
