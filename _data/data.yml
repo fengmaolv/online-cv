@@ -41,9 +41,12 @@ education:
 
 experiences:
     papers:
-      - title: "Machine Learning & Deep Learning: weakly-supervised learning, multi-label learning"
-      - title: "Transfer Learning: domain adaptation, zero-shot learning, few-shot learning"
-      - title: "Computer Vision: semantic segmentation, medical imaging analysis"
+      - title: "Machine Learning: PAC learning theory, quantum machine learning"
+      - title: "Transfer Learning: domain adaptation, zero-shot learning"
+      - title: "Computer Vision: semantic segmentation, medical imaging analysis, video understanding, multimodal learning"
+      - title: "Natural Language Processing: sentiment analysis, aspect aspect extraction, multimodal learning"
+      - title: "Computational Biology: genome editing, single-cell sequencing"
+      
 
           
 publications:
