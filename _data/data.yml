@@ -55,6 +55,13 @@ publications:
     papers:
     
 
+      - title: "Spatiotemporal Variations of Air Pollutants and Ozone Prediction using Machine Learning Algorithms in the Beijing-Tianjin-Hebei Region from 2014 to 2021"
+        link: "#"
+        authors: Yan Lyu, Qinru Ju, Fengmao Lv, Jialiang Feng, Xiaobing Pang, Xiang Li
+        conference: Environmental Pollution, 2022, accepted.
+
+
+
       - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
         link: "#"
         authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
