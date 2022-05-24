@@ -54,6 +54,11 @@ publications:
     intro: |
     papers:
     
+      - title: "Partial Label Learning with Semantic Label Representations"
+        link: "#"
+        authors: Shuo He, Lei Feng, Fengmao Lv, Wen Li, Guowu Yang
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022, accepted.
+
 
       - title: "Spatiotemporal Variations of Air Pollutants and Ozone Prediction using Machine Learning Algorithms in the Beijing-Tianjin-Hebei Region from 2014 to 2021"
         link: "#"
@@ -228,7 +233,7 @@ experiences1:
      
       - title: Journal Reviewer
         link: "#"      
-        tagline:  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Instrumentation and Measurement (TIM), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Knowledge-Based Systems (KBS), Expert Systems With Applications (ESWA), Multimedia Tools and Applications (MTA), IET Computer Vision (IET-CVI), IET Intelligent Transport Systems (IET-ITS), Security and Communication Networks (SCN).
+        tagline:  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Instrumentation and Measurement (TIM), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), Pattern Recognition (PR), Computer Vision and Image Understanding (CVIU), Knowledge-Based Systems (KBS), Expert Systems With Applications (ESWA), Multimedia Tools and Applications (MTA), IET Computer Vision (IET-CVI), IET Intelligent Transport Systems (IET-ITS), Security and Communication Networks (SCN).
 
      
      
