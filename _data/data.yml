@@ -41,13 +41,10 @@ education:
 
 experiences:
     papers:
-      - title: "Machine Learning: PAC learning theory, quantum machine learning"
-      - title: "Transfer Learning: domain adaptation, zero-shot learning"
-      - title: "Computer Vision: semantic segmentation, medical imaging analysis"
+      - title: "Deep Learning: domain adaptation, multimodal learning, zero-shot learning"
+      - title: "Computer Vision: semantic segmentation, video understanding, medical imaging analysis"
       - title: "Natural Language Processing: sentiment analysis, aspect aspect extraction"
-      - title: "Computational Biology: genome editing, single-cell sequencing"
       
-
           
 publications:
     title: Selected Publications
@@ -229,7 +226,7 @@ experiences1:
     
       - title: Conference PC Member
         link: "#"      
-        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022, CVPR 2022, ECCV 2022.
+        tagline:  AAAI 2021, CVPR 2021, ICCV 2021, CIKM 2021, AAAI 2022, CVPR 2022, ECCV 2022, AAAI 2023.
      
       - title: Journal Reviewer
         link: "#"      
@@ -241,14 +238,18 @@ experiences1:
 projects:
     title: Group  
     assignments:
-
-      - title: Defu Liu, Phd student 
-        link: "#"
-        tagline:  (From Sept. 2019, co-advised from UESTC)
         
       - title: Jianyang Zhang, Phd student 
         link: "#"
         tagline:  (From Jul. 2019, co-advised from UESTC)
+
+      - title: Peng Liu, Phd student 
+        link: "#"
+        tagline:  (From Sept. 2021, co-advised from UESTC)
+
+      - title: Enping Li, Phd student 
+        link: "#"
+        tagline:  (From Apr. 2022)
 
       - title: Tao Liang, Research assistant
         link: "#"
@@ -258,30 +259,37 @@ projects:
         link: "#"
         tagline:   (From Sept. 2019)
 
-      - title: Gang Wang, Master student
+      - title: Changru Nie, Master student
         link: "#"
-        tagline:   (From Apr. 2019, co-advised from UESTC)
+        tagline:   (From Sept. 2022)
 
-      - title: Jiujun He, Master student
+      - title: Mengting Xiong, Master student
         link: "#"
-        tagline:   (From Sept. 2020)
+        tagline:   (From Sept. 2022)
                 
-      - title: An Luo, Master student 
+      - title: Boyu Lu, Master student 
         link: "#"
-        tagline:  (From Sept. 2020)
+        tagline:  (From Sept. 2022)
                         
-      - title: Dianshi Li, Undergraduate student
+      - title: Junlin Fang, Undergraduate student
         link: "#"
-        tagline: (From Sept. 2020)
+        tagline: (From Jan. 2022)
 
       - title: Zhantao Cao, Phd student 
         link: "#hook"
         tagline: (From May. 2019 to Jun. 2020, co-advised from UESTC)
 
+      - title: Defu Liu, Phd student 
+        link: "#"
+        tagline:  (From Sept. 2019 to Jun. 2022, co-advised from UESTC)
 
       - title: Jiayi Zhao, Undergraduate student 
         link: "#"
-        tagline:  (From Oct. 2019 to Jun. 2020. Now - Master student @ Yale University, USA)
+        tagline:  (From Oct. 2019 to Jun. 2020, graduated from SWUFE. Now - Master student @ Yale University, USA)
+
+      - title: Xinyu Zhang, Undergraduate student 
+        link: "#"
+        tagline:  (From Oct. 2019 to Jun. 2021, graduated from SWUFE. Now - Master student @ Yale University, USA)
 
 
 footer: >
