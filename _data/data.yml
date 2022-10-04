@@ -51,6 +51,11 @@ publications:
     intro: |
     papers:
     
+      - title: "Progressive multi-granularity information propagation for coupled aspect-opinion extraction"
+        link: "#"
+        authors: Tao Liang, Wenya Wang, Zhihui Fei, Fengmao Lv*
+        conference: IEEE Transactions on Neural Networks and Learning Systems, 2022, accepted.    
+    
       - title: "Partial Label Learning with Semantic Label Representations"
         link: "#"
         authors: Shuo He, Lei Feng, Fengmao Lv, Wen Li, Guowu Yang
