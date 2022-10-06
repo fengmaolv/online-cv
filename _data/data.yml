@@ -51,6 +51,12 @@ publications:
     intro: |
     papers:
     
+      - title: "Curriculum knowledge distillation for emoji-supervised cross-lingual sentiment analysis"
+        link: "#"
+        authors: Jianyang Zhang, Tao Liang, Mingyang Wan, Guowu Yang, Fengmao Lv*
+        conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, accepted.  
+        
+   
       - title: "Progressive multi-granularity information propagation for coupled aspect-opinion extraction"
         link: "#"
         authors: Tao Liang, Wenya Wang, Zhihui Fei, Fengmao Lv*
