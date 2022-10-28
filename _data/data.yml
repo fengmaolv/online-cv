@@ -54,7 +54,7 @@ publications:
       - title: "Curriculum knowledge distillation for emoji-supervised cross-lingual sentiment analysis"
         link: "#"
         authors: Jianyang Zhang, Tao Liang, Mingyang Wan, Guowu Yang, Fengmao Lv*
-        conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, accepted.  
+        conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, accepted, oral paper.  
         
    
       - title: "Progressive multi-granularity information propagation for coupled aspect-opinion extraction"
@@ -78,7 +78,7 @@ publications:
       - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
         link: "#"
         authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted as oral paper.
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted.
 
 
       - title: "Multi-category classification with label noise by robust binary loss"
