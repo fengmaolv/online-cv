@@ -77,37 +77,13 @@ publications:
       - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
         link: "#"
         authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted.
-
-
-      - title: "Incorporating multiple cluster centers for multi-label learning"
-        link: "#"
-        authors: Senlin Shu, Fengmao Lv, Yan Yan, Li Li, Shuo He, Jun He
-        conference: Information Sciences, 2022, 590:60-73.
-
-
-      - title: "Spatiotemporal Variations of Air Pollutants and Ozone Prediction using Machine Learning Algorithms in the Beijing-Tianjin-Hebei Region from 2014 to 2021"
-        link: "#"
-        authors: Yan Lyu, Qinru Ju, Fengmao Lv, Jialiang Feng, Xiaobing Pang, Xiang Li
-        conference: Environmental Pollution, 2022, accepted.
-
-
-      - title: "Multi-category classification with label noise by robust binary loss"
-        link: "#"
-        authors: Defu Liu, Jiayi Zhao, Jinzhao Wu, Guowu Yang, Fengmao Lv*
-        conference: Neurocomputing, 2022, accepted.
-
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted
             
     
       - title: "Attention is not enough: mitigating the distribution discrepancy in asynchronous multimodal sequence fusion"
         link: "#"
         authors: Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv*
         conference: IEEE International Conference on Computer Vision (ICCV), 2021, accepted.
-
-      - title: "Adaptive graph-based generalized regression model for unsupervised feature selection"
-        link: "#"
-        authors: Yanyong Huang, Zongxin Shen, Fuxu Cai, Tianrui Li, Fengmao Lv*
-        conference: Knowledge-based Systems, 2021, accepted.
 
     
       - title: "Weakly-supervised domain adaptation for aspect term extraction via multi-level interaction transfer"
@@ -128,17 +104,6 @@ publications:
         conference: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, accepted.
 
     
-      - title: "Latent Gaussian process for anomaly detection in categorical data"
-        link: "#"
-        authors: Fengmao Lv, Jiayi Zhao, Tao Liang, Zhongliu Zhuo, Jinzhao Wu, Guowu Yang
-        conference: Knowledge-based Systems, 2021, accepted.
-
-    
-      - title: "Long short term memory on abstract syntax tree for SQL injection detection"
-        link: "#"
-        authors: Zhongliu Zhuo, Tao Cai, Xinyu Zhang, Fengmao Lv*
-        conference: IET Software, 2021, accepted.
-
       - title: "Weakly-supervised cross-domain road scene segmentation via multi-level curriculum adaptation"
         link: "#"
         authors: Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan
@@ -149,11 +114,6 @@ publications:
         link: "#"
         authors: Xiaofeng Yang, Guosheng Lin, Fengmao Lv, Fayao Liu
         conference: Proceedings of the European Conference on Computer Vision (ECCV), 2020:414-430. 
-
-      - title: "Learning unbiased zero-shot semantic segmentation networks via transductive transfer"
-        link: "#"
-        authors: Fengmao Lv, Haiyang Liu, Yichen Wang, Jiayi Zhao, Guowu Yang
-        conference: IEEE Signal Processing Letters, 2020, 27:1640-1644.
 
 
       - title: "Can cross entropy loss be robust to label noise"
@@ -166,75 +126,17 @@ publications:
         authors: Fengmao Lv, Tao Liang, Xiang Chen, Guosheng Lin
         conference: Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2020:4334-4343. 
 
-      - title: "Gradient boosting tree for 1H-MRS Alzheimer diagnosis"
-        link: "#"
-        authors: Defu Liu, Guowu Yang, Yuchen Li, Jinzhao Wu, Fengmao Lv*
-        conference: International Journal of Data Mining and Bioinformatics, 2020, 23(1):12-29.
-
-      - title: "Breast tumor classiﬁcation through learning from noisy labeled ultrasound images"
-        link: "#"
-        authors: Zhantao Cao, Guowu Yang, Qin Chen, Xiaolong Chen, Fengmao Lv*
-        conference: Medical Physics, 2020, 47(3):1048-1057.
-
       - title: "Constructing self-motivated pyramid curriculums for cross-domain semantic segmentation: a non-adversarial approach"
         link: "#"
         authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
         conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019:6758-6767. 
-                
-      - title: "TarGAN: generating target data with class labels for unsupervised domain adaptation"
-        link: "#"
-        authors:  Fengmao Lv, Jun Zhu, Guowu Yang, Lixin Duan
-        conference: "Knowledge-Based Systems, 2019, 172:123-129."
-        
-      - title: "Integrating traﬃcs with network device logs for anomaly detection"
-        link: "#"
-        authors: Jiazhong Lu, Fengmao Lv*, Zhongliu Zhuo, Xiaosong Zhang, Xiaolei Liu, Teng Hu, Wei Deng
-        conference: "Security and Communication Networks, 2019, 5695021:1-10."
-        
+                        
       - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
         link: "#"
         authors: Fengmao Lv, Yuchen Li, Guowu Yang
         conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018:913-918."
                 
-      - title: "Impacts of opinion leaders on social contagions"
-        link: "#"
-        authors: Quanhui Liu, Fengmao Lv, Qian Zhang, Ming Tang, Tao Zhou
-        conference: "Chaos: An Interdisciplinary Journal of Nonlinear Science, 2018, 28(5):053103."
-        
-      - title: "Domain adaptive semantic segmentation through structure enhancement"
-        link: "#"
-        authors: Fengmao Lv, Qing Lian, Guowu Yang, Guosheng Lin, Sinno Jialin Pan, Lixin Duan
-        conference: "Proceedings of the European Conference on Computer Vision Workshops, 2018(2):172-179. "
-  
-      - title: "Improving target discriminability for unsupervised domain adaptation"
-        link: "#"
-        authors: Fengmao Lv, Hao Chen, Jinzhao Wu, Linfeng Zhong, Xiaoyu Li, Guowu Yang
-        conference: "Proceedings of the International Conference on Neural Information Processing, 2018:287-298."  
-  
-      - title: "A new centroid based classiﬁcation model for text categorization"
-        link: "#"
-        authors: Chuan Liu, Wenyong Wang, Guanghui Tu, Yu Xiang, Siyang Wang, Fengmao Lv
-        conference: "Knowledge-Based Systems, 2017, 136:15-26."
-        
-      - title: "An effcient instance selection algorithm to reconstruct training set for support vector machine"
-        link: "#"
-        authors: Chuan Liu, Wenyong Wang, Meng Wang, Fengmao Lv, Martin Konan
-        conference: "Knowledge-Based Systems, 2017, 116:58-73."        
-
-      - title: "Anomaly detection for categorical observations using latent Gaussian process"
-        link: "#"
-        authors: Fengmao Lv, Guowu Yang, Jinzhao Wu, Chuan Liu, Yuhong Yang
-        conference: "Proceedings of the International Conference on Neural Information Processing, 2017:285-296."  
-     
-      - title: "Generative classiﬁcation model for categorical data based on latent Gaussian process"
-        link: "#"
-        authors: Fengmao Lv,Guowu Yang, William Zhu, Chuan Liu
-        conference: "Pattern Recognition Letters, 2017, 92:56-61."
-        
-      - title: "The convergence and termination criterion of quantum inspired evolutionary neural networks"
-        link: "#"
-        authors: Fengmao Lv, Guowu Yang, Wenjing Yang, Xiaosong Zhang, Kenli Li
-        conference: "Neurocomputing, 2017, 238:157-167."
+ 
                 
 
 experiences1:
