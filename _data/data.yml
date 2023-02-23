@@ -98,12 +98,6 @@ publications:
         conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2021, accepted.
 
     
-      - title: "Robust binary Loss for multi-category classification with label noise"
-        link: "#"
-        authors: Defu Liu, Guowu Yang, Jinzhao Wu, Jiayi Zhao, Fengmao Lv*
-        conference: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2021, accepted.
-
-    
       - title: "Weakly-supervised cross-domain road scene segmentation via multi-level curriculum adaptation"
         link: "#"
         authors: Fengmao Lv, Guosheng Lin, Peng Liu, Guowu Yang, Sinno Jialin Pan, Lixin Duan
@@ -131,10 +125,6 @@ publications:
         authors: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong. 
         conference: Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019:6758-6767. 
                         
-      - title: "Boosting 1H-MRS Alzheimer diagnosis with boosted trees"
-        link: "#"
-        authors: Fengmao Lv, Yuchen Li, Guowu Yang
-        conference: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018:913-918."
                 
  
                 
