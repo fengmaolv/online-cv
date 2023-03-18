@@ -51,10 +51,10 @@ publications:
     intro: |
     papers:
     
-      - title: "Self-training vision language berts with a unified conditional model"
+      - title: "Self-training vision language BERTs with a unified conditional model"
         link: "#"
         authors: Xiaofeng yang, Fengmao Lv, Fayao Liu, Guosheng Lin
-        conference: IEEE Transactions on Circuits and Systems for Video Technology, 2022, accepted.  
+        conference: IEEE Transactions on Circuits and Systems for Video Technology, 2023, accepted.  
     
     
       - title: "Curriculum knowledge distillation for emoji-supervised cross-lingual sentiment analysis"
