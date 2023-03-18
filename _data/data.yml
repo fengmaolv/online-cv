@@ -41,9 +41,11 @@ education:
 
 experiences:
     papers:
-      - title: "Deep Learning: domain adaptation, multimodal learning, zero-shot learning"
+      - title: "Multimodal Deep Learning: multimodal fusion, multimodal recognition, crossmodal knowledge transfer"
+      - title: "Transfer Learning: domain adaptation, zero-shot leaning, few-shot learning"
       - title: "Computer Vision: semantic segmentation, video understanding, medical imaging analysis"
-      - title: "Natural Language Processing: sentiment analysis, aspect term extraction"
+      - title: "Natural Language Processing: sentiment analysis, aspect term extraction"      
+      - title: "Social Network Data Mining: multimodal social network analysis, social network sentiment analysis"
       
           
 publications:
