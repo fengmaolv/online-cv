@@ -53,6 +53,13 @@ publications:
     intro: |
     papers:
     
+
+      - title: "Learning cross-domain semantic-visual relationships for transductive zero-shot learning"
+        link: "#"
+        authors: Fengmao Lv, Jianyang Zhang, Guowu Yang, Lei Feng, Yufeng Yu, Lixin Duan
+        conference: Pattern Recognition, 2023, accepted.  
+
+    
       - title: "Self-training vision language BERTs with a unified conditional model"
         link: "#"
         authors: Xiaofeng yang, Fengmao Lv, Fayao Liu, Guosheng Lin
