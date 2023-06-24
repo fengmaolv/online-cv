@@ -53,6 +53,11 @@ publications:
     intro: |
     papers:
     
+      - title: "Semantic consistent embedding for domain adaptive zero-shot learning"
+        link: "#"
+        authors: Jianyang Zhang, Guowu Yang, Ping Hu, Guosheng Lin, Fengmao Lv*
+        conference: IEEE Transactions on Image Processing, 2023, accepted.  
+
 
       - title: "C2IMUFS: Complementary and consensus learning-based incomplete multi-view unsupervised feature selection"
         link: "#"
