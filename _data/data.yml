@@ -52,6 +52,11 @@ publications:
     title: Selected Publications
     intro: |
     papers:
+
+      - title: "Source-free domain adaptation with unrestricted source hypothesis"
+        link: "#"
+        authors: Jiujun He, Liang Wu, Chaofan Tao, Fengmao Lv*
+        conference: Pattern Recognition, 2024, accepted.  
     
       - title: "Semantic consistent embedding for domain adaptive zero-shot learning"
         link: "#"
@@ -88,7 +93,7 @@ publications:
         authors: Fengmao Lv, Tao Liang, Zhihui Fei, Wenya Wang
         conference: IEEE Transactions on Neural Networks and Learning Systems, 2022, accepted.    
     
-      - title: "Partial Label Learning with Semantic Label Representations"
+      - title: "Partial label learning with semantic label representations"
         link: "#"
         authors: Shuo He, Lei Feng, Fengmao Lv, Wen Li, Guowu Yang
         conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022, accepted.
