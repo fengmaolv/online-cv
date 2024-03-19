@@ -53,6 +53,12 @@ publications:
     intro: |
     papers:
 
+      - title: "Transferring mult-modal domain knowledge to uni-modal domain for urban scene segmentation"
+        link: "#"
+        authors: Peng Liu, Yanqi Ge, Lixin Duan, Wen Li, Haonan Luo, Fengmao Lv*
+        conference: IEEE Transactions on Intelligent Transportation Systems, 2024, accepted.  
+ 
+
       - title: "Source-free domain adaptation with unrestricted source hypothesis"
         link: "#"
         authors: Jiujun He, Liang Wu, Chaofan Tao, Fengmao Lv*
