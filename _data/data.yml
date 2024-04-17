@@ -53,11 +53,16 @@ publications:
     intro: |
     papers:
 
+      - title: "Unified view imputation and feature selection learning for incomplete multi-view data"
+        link: "#"
+        authors: Yanyong Huang, Zongxin Shen, Tianrui Li, Fengmao Lv*
+        conference: International Joint Conference on Artificial Intelligence (IJCAI), 2024, accepted.  
+
+
       - title: "Transferring multi-modal domain knowledge to uni-modal domain for urban scene segmentation"
         link: "#"
         authors: Peng Liu, Yanqi Ge, Lixin Duan, Wen Li, Haonan Luo, Fengmao Lv*
         conference: IEEE Transactions on Intelligent Transportation Systems, 2024, accepted.  
- 
 
       - title: "Source-free domain adaptation with unrestricted source hypothesis"
         link: "#"
