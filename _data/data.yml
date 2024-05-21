@@ -58,6 +58,11 @@ publications:
         authors: Yanyong Huang, Zongxin Shen, Tianrui Li, Fengmao Lv*
         conference: International Joint Conference on Artificial Intelligence (IJCAI), 2024, accepted.  
 
+      - title: "CAFA: Cross-modal attentive feature alignmentfor cross-domain urban scene segmentation"
+        link: "#"
+        authors: Peng Liu, Yanqi Ge, Lixin Duan, Wen Li, Fengmao Lv*
+        conference: IEEE Transactions on Industrial Informatics, 2024, accepted.  
+
 
       - title: "Transferring multi-modal domain knowledge to uni-modal domain for urban scene segmentation"
         link: "#"
