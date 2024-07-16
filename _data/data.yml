@@ -53,6 +53,12 @@ publications:
     intro: |
     papers:
 
+      - title: "Progressive multimodal pivot learning: towards semantic discordance understanding as humans"
+        link: "#"
+        authors: Junlin Fang, Wenya Wang, Tianze Luo, Yanyong Huang and Fengmao Lv*
+        conference: ACM International Conference on Information and Knowledge Management (CIKM), 2024, accepted.  
+
+
       - title: "Rethinking the effect of uninformative class name in prompt learning"
         link: "#"
         authors: Fengmao Lv, Changru Nie, Jianyang Zhang, Guowu Yang, Guosheng Lin, Xiao Wu, Tianrui Li
