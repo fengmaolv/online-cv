@@ -53,6 +53,17 @@ publications:
     intro: |
     papers:
 
+      - title: "Rethinking the effect of uninformative class name in prompt learning"
+        link: "#"
+        authors: Fengmao Lv, Changru Nie, Jianyang Zhang, Guowu Yang, Guosheng Lin, Xiao Wu, Tianrui Li
+        conference: ACM International Conference on Multimedia (ACM MM), 2024, accepted.  
+
+      - title: "Sentiment-oriented sarcasm integration for video sentiment analysis enhancement with sarcasm assistance"
+        link: "#"
+        authors: Junlin Fang, Wenya Wang, Guosheng Lin, Fengmao Lv*
+        conference: ACM International Conference on Multimedia (ACM MM), 2024, accepted.  
+
+
       - title: "Unified view imputation and feature selection learning for incomplete multi-view data"
         link: "#"
         authors: Yanyong Huang, Zongxin Shen, Tianrui Li, Fengmao Lv*
