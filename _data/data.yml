@@ -86,6 +86,12 @@ publications:
         authors: Peng Liu, Yanqi Ge, Lixin Duan, Wen Li, Haonan Luo, Fengmao Lv*
         conference: IEEE Transactions on Intelligent Transportation Systems, 2024, accepted.  
 
+      - title: "C2T-HR3D: Cross-fusion of CNN and transformer for high-speed railway dropper defect detection"
+        link: "#"
+        authors: Jin He, Fengmao Lv, Jun Liu, Shiping Wang, Min Wu, Badong Chen
+        conference: IEEE Transactions on Instrumentation & Measurement, 2024, accepted.  
+
+
       - title: "Source-free domain adaptation with unrestricted source hypothesis"
         link: "#"
         authors: Jiujun He, Liang Wu, Chaofan Tao, Fengmao Lv*
