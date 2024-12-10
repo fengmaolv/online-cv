@@ -53,6 +53,17 @@ publications:
     intro: |
     papers:
 
+      - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
+        link: "#"
+        authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
+        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted.  
+
+      - title: "Adaptive multi-scale language reinforcement for multimodal named entity recognition"
+        link: "#"
+        authors: Enping Li, Tianrui Li, Huaishao Luo, Jielei Chu, Lixin Duan, Fengmao Lv*
+        conference: IEEE Transactions on Multimedia, 2025, accepted.  
+
+
       - title: "Progressive multimodal pivot learning: towards semantic discordance understanding as humans"
         link: "#"
         authors: Junlin Fang, Wenya Wang, Tianze Luo, Yanyong Huang, Fengmao Lv*
