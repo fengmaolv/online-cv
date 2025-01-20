@@ -52,21 +52,11 @@ publications:
     title: Selected Publications
     intro: |
     papers:
-
-      - title: "MSTI-Plus: Introducing non-sarcasm reference materials to enhance multimodal sarcasm target identification"
-        link: "#"
-        authors: Fengmao Lv, Mengting Xiong, Junlin Fang, Lingli Zhang, Tianze Luo, Weichao Liang, Tianrui Li
-        conference: The Web Conference (WWW), 2025, accepted, oral paper.  
-
-      - title: "Damage analysis via bidirectional multi-task cascaded multimodal fusion"
-        link: "#"
-        authors: Tao Liang, Siying Wu, Junfeng Fang, Guowu Yang, Wenya Wang, Fengmao Lv*
-        conference: The Web Conference (WWW), 2025, accepted, oral paper.  
         
       - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
         link: "#"
         authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
-        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted, oral paper.  
+        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted.  
 
       - title: "Adaptive multi-scale language reinforcement for multimodal named entity recognition"
         link: "#"
