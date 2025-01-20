@@ -53,6 +53,12 @@ publications:
     intro: |
     papers:
 
+      - title: "Damage analysis via bidirectional multi-task cascaded multimodal fusion"
+        link: "#"
+        authors: Tao Liang, Siying Wu, Junfeng Fang, Guowu Yang, Wenya Wang, Fengmao Lv*
+        conference: The Web Conference (WWW), 2025, accepted, oral paper.  
+
+
       - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
         link: "#"
         authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
@@ -111,7 +117,7 @@ publications:
       - title: "C2T-HR3D: Cross-fusion of CNN and transformer for high-speed railway dropper defect detection"
         link: "#"
         authors: Jin He, Fengmao Lv, Jun Liu, Shiping Wang, Min Wu, Badong Chen
-        conference: IEEE Transactions on Instrumentation & Measurement, 2024, accepted.  
+        conference: IEEE Transactions on Instrumentation and Measurement, 2024, accepted.  
 
 
       - title: "Source-free domain adaptation with unrestricted source hypothesis"
