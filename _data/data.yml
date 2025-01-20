@@ -53,22 +53,6 @@ publications:
     intro: |
     papers:
 
-      - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
-        link: "#"
-        authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
-        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted.  
-
-      - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
-        link: "#"
-        authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
-        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted.  
-
-        
-      - title: "Enhancing multi-robot semantic navigation through multimodal chain-of-thought score collaboration"
-        link: "#"
-        authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
-        conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted.  
-
       - title: "Adaptive multi-scale language reinforcement for multimodal named entity recognition"
         link: "#"
         authors: Enping Li, Tianrui Li, Huaishao Luo, Jielei Chu, Lixin Duan, Fengmao Lv*
