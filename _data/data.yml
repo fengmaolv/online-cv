@@ -53,6 +53,13 @@ publications:
     intro: |
     papers:
 
+
+      - title: "Why is a bird’s caption a good demonstration? towards effective multimodal in-context learning without dedicated data"
+        link: "#"
+        authors: Junlin Fang, Wenya Wang, Lingli Zhang, Fengmao Lv*
+        conference: ACM International Conference on Multimedia (ACM MM), 2025, accepted.  
+
+
       - title: "Attribute-formed class-specific concept space: endowing language bottleneck model with better interpretability and scalability"
         link: "#"
         authors: Jianyang Zhang, Qianli Luo, Guowu Yang, Wenjing Yang, Weide Liu, Guosheng Lin, Fengmao Lv*
