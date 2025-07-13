@@ -54,6 +54,12 @@ publications:
     papers:
 
 
+      - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
+        link: "#"
+        authors: Weichao Liang, Fengmao Lv, Haicheng Tao
+        conference: IEEE Transactions on Information Forensics and Security, 2025, accepted.  
+
+
       - title: "Why is a bird’s caption a good demonstration? towards effective multimodal in-context learning without dedicated data"
         link: "#"
         authors: Junlin Fang, Wenya Wang, Lingli Zhang, Fengmao Lv*
