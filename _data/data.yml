@@ -56,7 +56,7 @@ publications:
 
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
         link: "#"
-        authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng ZHENG, Jianyang Zhang, Tianrui Li
+        authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
         conference: Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.  
 
       - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
