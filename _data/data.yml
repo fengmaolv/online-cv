@@ -27,7 +27,7 @@ career-profile:
     title: About me
     summary: |
       I am currently an Associate Professor at the School of Computing and Artificial Intelligence, Southwest Jiaotong University, China. My research interests are in multimodal deep learning, transfer 
-      learning and their applications in computer vision, natural language processing and social network analysis. 
+      learning and their applications in computer vision, natural language processing and social network analysis.
       
       I have openings for self-motivated undergraduate students, master students and PhD students (co-supervised). 
       Feel free to contact me if you are interested in my research area.
@@ -53,6 +53,11 @@ publications:
     intro: |
     papers:
 
+
+      - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
+        link: "#"
+        authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng ZHENG, Jianyang Zhang, Tianrui Li
+        conference: Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.  
 
       - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
         link: "#"
