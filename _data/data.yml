@@ -54,6 +54,12 @@ publications:
     papers:
 
 
+      - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
+        link: "#"
+        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv
+        conference: IEEE Transactions on Computational Social Systems, 2025, accepted.  
+
+
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
         link: "#"
         authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
