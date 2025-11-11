@@ -41,11 +41,9 @@ education:
 
 experiences:
     papers:
-      - title: "Multimodal Deep Learning: multimodal fusion, multimodal recognition"
-      - title: "Transfer Learning: domain adaptation, zero-shot leaning, few-shot learning"
-      - title: "Computer Vision: semantic segmentation, video understanding, medical imaging analysis"
-      - title: "Natural Language Processing: sentiment analysis, aspect term extraction"      
-      - title: "Data Mining: social media analysis, sentiment analysis"
+      - title: "Multimodal Learning: multimodal fusion, multimodal recognition, multimodal large language model"
+      - title: "Open-World Learning: domain adaptation, zero-shot leaning, visial language model"
+      - title: "Multimedia: multimedia content analysis, sentimen analysis"
       
           
 publications:
@@ -54,21 +52,10 @@ publications:
     papers:
 
 
-      - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
-        link: "#"
-        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv
-        conference: IEEE Transactions on Computational Social Systems, 2025, accepted.  
-
-
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
         link: "#"
         authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
-        conference: Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.  
-
-      - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
-        link: "#"
-        authors: Weichao Liang, Fengmao Lv, Lei Chen, Haicheng Tao, Min Shi, Xingquan Zhu
-        conference: IEEE Transactions on Information Forensics and Security, 2025, accepted.  
+        conference: Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.   
 
 
       - title: "Why is a bird’s caption a good demonstration? towards effective multimodal in-context learning without dedicated data"
@@ -98,6 +85,17 @@ publications:
         link: "#"
         authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
         conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted, oral paper.  
+
+      - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
+        link: "#"
+        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv
+        conference: IEEE Transactions on Computational Social Systems, 2025, accepted.  
+
+      - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
+        link: "#"
+        authors: Weichao Liang, Fengmao Lv, Lei Chen, Haicheng Tao, Min Shi, Xingquan Zhu
+        conference: IEEE Transactions on Information Forensics and Security, 2025, accepted. 
+
         
       - title: "Adaptive multi-scale language reinforcement for multimodal named entity recognition"
         link: "#"
@@ -193,6 +191,16 @@ publications:
         link: "#"
         authors: Jianyang Zhang, Tao Liang, Mingyang Wan, Guowu Yang, Fengmao Lv*
         conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, accepted, oral paper.  
+
+      - title: "Partial label learning with semantic label representations"
+        link: "#"
+        authors: Shuo He, Lei Feng, Fengmao Lv, Wen Li, Guowu Yang
+        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022, accepted.
+
+      - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
+        link: "#"
+        authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted.
         
    
       - title: "Progressive multi-granularity information propagation for coupled aspect-opinion extraction"
@@ -200,16 +208,6 @@ publications:
         authors: Fengmao Lv, Tao Liang, Zhihui Fei, Wenya Wang
         conference: IEEE Transactions on Neural Networks and Learning Systems, 2022, accepted.    
     
-      - title: "Partial label learning with semantic label representations"
-        link: "#"
-        authors: Shuo He, Lei Feng, Fengmao Lv, Wen Li, Guowu Yang
-        conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022, accepted.
-
-
-      - title: "Expanding large pre-trained unimodal models with multimodal information injection for image-text multimodal classification"
-        link: "#"
-        authors: Tao Liang, Guosheng Lin, Mingyang Wan, Tianrui Li, Guojun Ma, Fengmao Lv*
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2022, accepted.
             
     
       - title: "Attention is not enough: mitigating the distribution discrepancy in asynchronous multimodal sequence fusion"
@@ -217,17 +215,17 @@ publications:
         authors: Tao Liang, Guosheng Lin, Lei Feng, Yan Zhang, Fengmao Lv*
         conference: IEEE International Conference on Computer Vision (ICCV), 2021, accepted.
 
+
+      - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
+        link: "#"
+        authors: Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin
+        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2021, accepted.
+
     
       - title: "Weakly-supervised domain adaptation for aspect term extraction via multi-level interaction transfer"
         link: "#"
         authors: Tao Liang, Wenya Wang, Fengmao Lv*
         conference: IEEE Transactions on Neural Networks and Learning Systems, 2021, accepted.
-
-    
-      - title: "Progressive modality reinforcement for human multimodal emotion recognition from unaligned multimodal sequences"
-        link: "#"
-        authors: Fengmao Lv, Xiang Chen, Yanyong Huang, Lixin Duan, Guosheng Lin
-        conference: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2021, accepted.
 
     
       - title: "Weakly-supervised cross-domain road scene segmentation via multi-level curriculum adaptation"
