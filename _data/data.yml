@@ -52,11 +52,20 @@ publications:
     papers:
 
 
+      - title: "Rethinking the effect of unimodal labels in multimodal sentiment analysis"
+        link: "#"
+        authors: Lingli Zhang, Tianrui Li, Baiyu Lu, Junlin Fang, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv*
+        conference: ACM Transactions on Multimedia Computing Communications and Applications, 2026, accepted. 
+
+      - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
+        link: "#"
+        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv, Tianrui Li
+        conference: IEEE Transactions on Computational Social Systems, 2026, accepted. 
+
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
         link: "#"
         authors: Fengmao Lv, Jitong Lei, Guosheng Lin, Desheng Zheng, Jianyang Zhang, Tianrui Li
         conference: Conference on Neural Information Processing Systems (NeurIPS), 2025, accepted.   
-
 
       - title: "Why is a bird’s caption a good demonstration? towards effective multimodal in-context learning without dedicated data"
         link: "#"
@@ -85,11 +94,7 @@ publications:
         link: "#"
         authors: Zhixuan Shen, Haonan Luo, Kexun Chen, Fengmao Lv, Tianrui Li
         conference: AAAI Conference on Artificial Intelligence (AAAI), 2025, accepted, oral paper.  
-
-      - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
-        link: "#"
-        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv
-        conference: IEEE Transactions on Computational Social Systems, 2025, accepted.  
+ 
 
       - title: "Citywide multi-step crime prediction via context-aware bayesian tensor decomposition"
         link: "#"
