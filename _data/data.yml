@@ -54,12 +54,12 @@ publications:
 
       - title: "Rethinking the effect of unimodal labels in multimodal sentiment analysis"
         link: "#"
-        authors: Lingli Zhang, Tianrui Li, Baiyu Lu, Junlin Fang, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv*
+        authors: Lingli Zhang, Tianrui Li, Baiyu Lu, Junlin Fang, Desheng Zheng, Wei Zhou, Weide Liu and Fengmao Lv*
         conference: ACM Transactions on Multimedia Computing Communications and Applications, 2026, accepted. 
 
       - title: "In-depth understanding of crime dynamics via space-time-context-aware tensor decomposition"
         link: "#"
-        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv, Tianrui Li
+        authors: Weichao Liang, Guangliang Gao, Lei Chen, Haicheng Tao, Lilan Peng, Fengmao Lv and Tianrui Li
         conference: IEEE Transactions on Computational Social Systems, 2026, accepted. 
 
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
