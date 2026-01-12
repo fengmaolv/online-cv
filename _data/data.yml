@@ -52,6 +52,11 @@ publications:
     papers:
 
 
+      - title: "Causally-aware unsupervised feature selection learning"
+        link: "#"
+        authors: Zongxin Shen, Yanyong Huang, Dongjie Wang, Minbo Ma, Fengmao Lv, Tianrui Li
+        conference: IEEE Transactions on Image Processing, 2026, accepted. 
+
       - title: "Rethinking the effect of unimodal labels in multimodal sentiment analysis"
         link: "#"
         authors: Lingli Zhang, Tianrui Li, Baiyu Lu, Junlin Fang, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv*
