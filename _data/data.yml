@@ -51,6 +51,10 @@ publications:
     intro: |
     papers:
 
+      - title: "Modeling deep fusion of intra- and inter-modal incongruity for multimodal sarcasm detection"
+        link: "#"
+        authors: Fengmao Lv, Junlin Fang, Guosheng Lin, Wenya Wang
+        conference: IEEE Transactions on Knowledge and Data Engineering, 2026, accepted. 
 
       - title: "Causally-aware unsupervised feature selection learning"
         link: "#"
