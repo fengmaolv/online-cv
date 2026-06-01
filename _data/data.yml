@@ -51,6 +51,11 @@ publications:
     intro: |
     papers:
 
+      - title: "Lighted-SAM: lightening open-world SAM for low-light segmentation"
+        link: "#"
+        authors: Yuhan Jia, Lixin Duan, Wen Li, Fengmao Lv*
+        conference: IEEE Transactions on Image Processing, 2026, accepted. 
+
       - title: "Modeling deep fusion of intra- and inter-modal incongruity for multimodal sarcasm detection"
         link: "#"
         authors: Fengmao Lv, Junlin Fang, Guosheng Lin, Wenya Wang
