@@ -51,15 +51,15 @@ publications:
     intro: |
     papers:
 
-      - title: "Lighted-SAM: lightening open-world SAM for low-light segmentation"
-        link: "#"
-        authors: Yuhan Jia, Lixin Duan, Wen Li, Fengmao Lv*
-        conference: IEEE Transactions on Image Processing, 2026, accepted. 
-
       - title: "Modeling deep fusion of intra- and inter-modal incongruity for multimodal sarcasm detection"
         link: "#"
         authors: Fengmao Lv, Junlin Fang, Guosheng Lin, Wenya Wang
         conference: IEEE Transactions on Knowledge and Data Engineering, 2026, accepted. 
+
+      - title: "Lighted-SAM: lightening open-world SAM for low-light segmentation"
+        link: "#"
+        authors: Yuhan Jia, Lixin Duan, Wen Li, Fengmao Lv*
+        conference: IEEE Transactions on Image Processing, 2026, accepted. 
 
       - title: "Causally-aware unsupervised feature selection learning"
         link: "#"
@@ -70,6 +70,12 @@ publications:
         link: "#"
         authors: Lingli Zhang, Tianrui Li, Baiyu Lu, Junlin Fang, Desheng Zheng, Wei Zhou, Weide Liu, Fengmao Lv*
         conference: ACM Transactions on Multimedia Computing Communications and Applications, 2026, accepted. 
+
+      - title: "Adaptive collaborative correlation learning-based semi-supervised multi-label feature selection"
+        link: "#"
+        authors: Li Yang, Yanyong Huang, Dongjie Wang, Ke Li, Xiuwen Yi, Fengmao Lv, Tianrui Li
+        conference: Pattern Recognition, 2026, accepted. 
+
 
       - title: "Efficiently maintaining the multilingual capacity of MCLIP in downstream cross-modal retrieval tasks"
         link: "#"
