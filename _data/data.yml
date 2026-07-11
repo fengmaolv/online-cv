@@ -51,6 +51,19 @@ publications:
     intro: |
     papers:
 
+
+      - title: "Bridging and perceiving domain gaps for source-free video domain adaptation from the keyframe sampling perspective"
+        link: "#"
+        authors: Youwei Xie, Fode Zhang, Yuhan Jia, Fengmao Lv* 
+        conference: ACM International Conference on Multimedia (ACM MM), 2026, accepted.  
+
+
+      - title: "TRUST-FS: tensorized reliable unsupervised multi-view feature selection for incomplete data"
+        link: "#"
+        authors: Minghui Lu, Yanyong Huang, Minbo Ma, Jinyuan Chang, Dongjie Wang, Xiuwen Yi, Fengmao Lv, Tianrui Li
+        conference: ACM International Conference on Multimedia (ACM MM), 2026, accepted.  
+    
+
       - title: "Modeling deep fusion of intra- and inter-modal incongruity for multimodal sarcasm detection"
         link: "#"
         authors: Fengmao Lv, Junlin Fang, Guosheng Lin, Wenya Wang
